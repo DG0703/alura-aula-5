@@ -40,14 +40,20 @@ font-size: 24px;}
        font-family: "Poppins", sans-serif;
        color: #093d01;
        display: flex;
-       justify-content: center;
+       justify-content:center;
        align-items: center; 
        padding: 25px 0;
 }
 .professores-div-conteudo{
        width: 40%
 }
-.professores-img-1{
+.professores-img{
        width: 198px;
        height: 200px;
+}
+.professor-icone{
+       width:24px
+}
+.professor-div{
+       text-align: center;
 }
